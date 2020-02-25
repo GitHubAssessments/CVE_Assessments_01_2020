@@ -22,15 +22,21 @@ The .NET has also security vulnerabilities regarding how to handle web requests.
 
 
 
+
+
 File source (download):
 
 http://dmeforensics.com/getlatest 
 
 
 
+
+
 The software has a long list of GUID in use, that may allow a privilege escalation. For example:
 
 724EF170-A42D-4FEF-9F26-B60E846FBA4F
+
+
 
 
 Additional References:
