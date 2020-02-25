@@ -18,7 +18,7 @@ For which the correct addressed would be:
 
 https://support.microsoft.com/en-us/help/3151800/the-net-framework-4-6-2-offline-installer-for-windows
 
-The .NET has also security vulnerabilities regarding how to handle web requests.
+The .NET Framework has also security vulnerabilities regarding how to handle web requests.
 
 
 
