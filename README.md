@@ -3,6 +3,12 @@
 
 (CVE-2017-8759 Update)
 
+DVR Examiner
+
+File source (download):
+
+http://dmeforensics.com/getlatest 
+
 
 The DVR Examiner version 2.8.3 relies on a .NET Framework version 4.6.2 that is vulnerable to remote code execution 
 through an application (CVE-2017-8759).
@@ -23,10 +29,6 @@ The .NET Framework has also security vulnerabilities regarding how to handle web
 
 
 
-
-File source (download):
-
-http://dmeforensics.com/getlatest 
 
 
 
