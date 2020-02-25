@@ -10,7 +10,7 @@ File source (download):
 http://dmeforensics.com/getlatest 
 
 
-The DVR Examiner version 2.8.3 relies on a .NET Framework version 4.6.2 that is vulnerable to remote code execution 
+The DVR Examiner version 2.8.3 relies on the Microsoft .NET Framework version 4.6.2 that is vulnerable to remote code execution 
 through an application (CVE-2017-8759).
 
 The software has a compressed (23.7z) executable file (NDP462-KB3151800-x86-x64-AllOS-ENU.exe) that points to an untrusted 
@@ -24,7 +24,7 @@ For which the correct addressed would be:
 
 https://support.microsoft.com/en-us/help/3151800/the-net-framework-4-6-2-offline-installer-for-windows
 
-The .NET Framework has also security vulnerabilities regarding how to handle web requests.
+The Microsoft .NET Framework has also security vulnerabilities regarding how to handle web requests.
 
 
 
@@ -34,7 +34,7 @@ The .NET Framework has also security vulnerabilities regarding how to handle web
 
 
 
-The software has a long list of GUID in use, that may allow a privilege escalation. For example:
+The software has a long list of GUID in use, that could allow privilege escalation. For example:
 
 724EF170-A42D-4FEF-9F26-B60E846FBA4F
 
